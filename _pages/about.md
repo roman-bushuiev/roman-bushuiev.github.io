@@ -30,4 +30,4 @@ During my undergraduate studies, I focused on machine learning for enzyme functi
 
 I'm particularly passionate about the biological discoveries and real-world impact that machine learning can unlock, rather than focusing purely on methodological innovation. I deeply value collaboration—please feel free to reach out! 😉
 
-Outside of research, I enjoy doing art and sports, espcecially Uechi-Ryū karate at the dojo of my research supervisor, Dr. Tomáš Pluskal.
+Outside of research, I enjoy exploring art and doing sports, espcecially Uechi-Ryū karate at the dojo of my research supervisor, Dr. Tomáš Pluskal.
