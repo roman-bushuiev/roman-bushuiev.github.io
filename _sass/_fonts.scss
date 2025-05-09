@@ -35,7 +35,7 @@ code, pre, .highlight {
 }
 
 h1, h2, .publications h1, .publications h2 {
-  color: #111 !important;
+  color: var(--global-text-color) !important;
   font-weight: bold !important;
 }
 
@@ -58,12 +58,12 @@ ol.bibliography a,
 .btn:visited,
 .btn:active,
 .btn:focus {
-  color: #000000 !important;
+  color: var(--global-text-color) !important;
   font-weight: bold !important;
 }
 
 a:hover, a:focus,
 .btn:hover, .btn:focus {
-  color: #000000 !important;
+  color: var(--global-text-color) !important;
   text-decoration: underline;
 }
