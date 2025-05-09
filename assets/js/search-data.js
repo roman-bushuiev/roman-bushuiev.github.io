@@ -440,16 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-massspecgym-has-been-integrated-to-polaris-check-out-my-interview-with-valence-labs",
+          title: 'MassSpecGym has been integrated to Polaris. Check out my interview with Valence Labs....',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-check-out-an-interview-with-me-and-my-brother-on-czechcrunch-in-czech",
+          title: 'Check out an interview with me and my brother on CzechCrunch (in Czech)....',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-will-be-doing-a-research-internship-in-martin-steinegger-s-lab-from-july-to-september",
+          title: 'I will be doing a research internship in Martin Steinegger’s lab from July...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
