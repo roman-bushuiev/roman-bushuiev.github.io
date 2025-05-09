@@ -28,6 +28,6 @@ latest_posts:
 
 During my undergraduate studies, I focused on machine learning for enzyme function prediction. I also collaborate closely with my twin brother, [Anton Bushuiev](https://www.linkedin.com/in/anton-bushuiev/?originalSubdomain=cz), on machine learning methods in protein science, including the design of protein-protein interactions and the customization of protein language models for specific proteins.
 
-I'm particularly passionate about the biological discoveries and real-world impact that machine learning can unlock, rather than focusing purely on methodological innovation. I deeply value collaboration—please feel free to reach out! 😉
+While I work on method development, I’m particularly passionate about the biological discoveries and real-world impact that machine learning can unlock. I deeply value collaboration—please feel free to reach out! 😉
 
 Outside of research, I enjoy exploring art and doing sports, espcecially Uechi-Ryū karate at the dojo of my research supervisor, Dr. Tomáš Pluskal.
