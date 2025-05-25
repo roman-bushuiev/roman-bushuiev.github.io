@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: ✉️ <a href="mailto:roman.bushuiev&#64uochb.cas&#46;cz">Email</a> | 🔹 <a href="https://www.linkedin.com/in/roman-bushuiev/">LinkedIn</a> | 🦋 <a href="https://bsky.app/profile/roman-bushuiev.bsky.social">Bluesky</a> | 🎓 <a href="https://scholar.google.com/citations?user=zs8gt4UAAAAJ&hl=en">Google scholar</a> | &lt;/&gt; <a href="https://github.com/roman-bushuiev">GitHub</a> | 🤗 <a href="https://huggingface.co/roman-bushuiev">HuggingFace</a>
+subtitle: ✉️ <a href="mailto:roman.bushuiev&#64uochb.cas&#46;cz">Email</a> | 🔹 <a href="https://www.linkedin.com/in/roman-bushuiev/">LinkedIn</a> | 🦋 <a href="https://bsky.app/profile/roman-bushuiev.bsky.social">Bluesky</a> | 🐦 <a href="https://x.com/roman_bushuiev">X</a> | 🎓 <a href="https://scholar.google.com/citations?user=zs8gt4UAAAAJ&hl=en">Google scholar</a> | &lt;/&gt; <a href="https://github.com/roman-bushuiev">GitHub</a> | 🤗 <a href="https://huggingface.co/roman-bushuiev">HuggingFace</a>
+
+
 
 profile:
   align: right
