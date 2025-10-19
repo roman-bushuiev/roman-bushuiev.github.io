@@ -1,8 +1,14 @@
-@import url('https://fonts.googleapis.com/css?family=Lora:400,700&display=swap');
-
 body {
-  font-family: 'Lora', serif;
-  background-color: #ffe5e5;
+  font-family:
+    "Work Sans",
+    "Inter",
+    system-ui,
+    -apple-system,
+    Segoe UI,
+    Roboto,
+    Arial,
+    sans-serif;
+  background-color: #000000;
   position: relative;
   min-height: 100vh;
   z-index: 0;
@@ -21,25 +27,43 @@ body::before {
   background-size: cover;
 }
 
-/* Apply Lora to all text elements */
-p, h1, h2, h3, h4, h5, h6, 
-div, span, a, li, 
-blockquote, table, 
-input, button, textarea {
-  font-family: 'Lora', serif;
-}
+/* Remove global Lora override; body now uses Inter */
 
 /* Preserve monospace font for code elements */
-code, pre, .highlight {
+code,
+pre,
+.highlight {
   font-family: monospace, monospace;
 }
 
-h1, h2, .publications h1, .publications h2 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.publications h1,
+.publications h2 {
   color: var(--global-text-color) !important;
-  font-weight: bold !important;
+  font-family:
+    "Montserrat",
+    "Work Sans",
+    "Inter",
+    system-ui,
+    -apple-system,
+    Segoe UI,
+    Roboto,
+    Arial,
+    sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.008em;
+  font-weight: 700;
 }
 
-a, a:visited, a:active, a:focus,
+a,
+a:visited,
+a:active,
+a:focus,
 .publications a,
 footer a,
 .post a,
@@ -62,8 +86,10 @@ ol.bibliography a,
   font-weight: bold !important;
 }
 
-a:hover, a:focus,
-.btn:hover, .btn:focus {
+a:hover,
+a:focus,
+.btn:hover,
+.btn:focus {
   color: var(--global-text-color) !important;
   text-decoration: underline;
 }
