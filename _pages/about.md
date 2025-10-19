@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: ✉️ <a href="mailto:roman.bushuiev&#64uochb.cas&#46;cz">Email</a> | 🔹 <a href="https://www.linkedin.com/in/roman-bushuiev/">LinkedIn</a> | 🦋 <a href="https://bsky.app/profile/roman-bushuiev.bsky.social">Bluesky</a> | 🐦 <a href="https://x.com/roman_bushuiev">X</a> | 🎓 <a href="https://scholar.google.com/citations?user=zs8gt4UAAAAJ&hl=en">Google scholar</a> | &lt;/&gt; <a href="https://github.com/roman-bushuiev">GitHub</a> | 🤗 <a href="https://huggingface.co/roman-bushuiev">HuggingFace</a>
+subtitle: <a href="mailto:roman.bushuiev&#64uochb.cas&#46;cz" title="Email"><i class="fas fa-envelope"></i> Email</a> | <a href="https://www.linkedin.com/in/roman-bushuiev/" title="LinkedIn"><i class="fab fa-linkedin-in"></i> LinkedIn</a> | <a href="https://bsky.app/profile/roman-bushuiev.bsky.social" title="Bluesky"><i class="fab fa-bluesky"></i> Bluesky</a> | <a href="https://x.com/roman_bushuiev" title="X"><i class="fab fa-x-twitter"></i> X</a> | <a href="https://github.com/roman-bushuiev" title="GitHub"><i class="fab fa-github"></i> GitHub</a> | <a href="https://scholar.google.com/citations?user=zs8gt4UAAAAJ&hl=en" title="Google Scholar"><i class="fas fa-graduation-cap"></i> Google Scholar</a> | <a href="https://huggingface.co/roman-bushuiev" title="Hugging Face">HuggingFace</a>
 
 
 
@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-👋 I'm a second-year PhD student at IOCB Prague and the Czech Technical University, co-supervised by [Dr. Tomáš Pluskal](https://pluskal.group.uochb.cz/en) and [Dr. Josef Sivic](https://impact.ciirc.cvut.cz/). My primary research interest lies in developing machine learning methods for discovering new molecules from nature (e.g., new medicines from plants).
+I'm a third-year PhD student at IOCB Prague and the Czech Technical University, co-supervised by [Dr. Tomáš Pluskal](https://pluskal.group.uochb.cz/en) and [Dr. Josef Sivic](https://impact.ciirc.cvut.cz/). My primary research interest lies in developing machine learning methods for discovering new molecules from nature (e.g., new medicines from plants).
 
 During my undergraduate studies, I focused on machine learning for enzyme function prediction. I also collaborate closely with my twin brother, [Anton Bushuiev](https://www.linkedin.com/in/anton-bushuiev/?originalSubdomain=cz), on machine learning methods in protein science, including the design of protein-protein interactions and the customization of protein language models for specific proteins.
 
