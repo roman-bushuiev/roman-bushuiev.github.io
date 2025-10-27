@@ -26,9 +26,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a third-year PhD student at IOCB Prague and the Czech Technical University, co-supervised by [Dr. Tomáš Pluskal](https://pluskal.group.uochb.cz/en) and [Dr. Josef Sivic](https://impact.ciirc.cvut.cz/). My primary research interest lies in developing machine learning methods for discovering new molecules from nature (e.g., new medicines from plants).
+I'm a third-year PhD student at IOCB Prague and the Czech Technical University, co-supervised by [Dr. Tomáš Pluskal](https://pluskal.group.uochb.cz/en) and [Dr. Josef Sivic](https://impact.ciirc.cvut.cz/). I am a part of the [ELLIS PhD program](https://ellis.eu/research/phd-postdoc) and supported by a [Google PhD Fellowship](https://research.google/programs-and-events/phd-fellowship/). My primary research interest lies in developing machine learning methods for discovering new molecules from nature (e.g., new medicines from plants).
 
-During my undergraduate studies, I focused on machine learning for enzyme function prediction. I also collaborate closely with my twin brother, [Anton Bushuiev](https://www.linkedin.com/in/anton-bushuiev/?originalSubdomain=cz), on machine learning methods in protein science, including the design of protein-protein interactions and the customization of protein language models for specific proteins.
+During my undergraduate studies, I focused on machine learning for enzyme function prediction. I also collaborate closely with my twin brother, [Anton Bushuiev](https://anton-bushuiev.github.io/), on machine learning methods in protein science, including the design of protein-protein interactions and the customization of protein language models for specific proteins.
 
 While I work on method development, I’m particularly passionate about the biological discoveries and real-world impact that machine learning can unlock. I deeply value collaboration—please feel free to reach out! 😉
 
