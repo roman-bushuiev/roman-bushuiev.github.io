@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be doing a research internship in [Martin Steinegger’s lab](https://steineggerlab.com/en/) from July to September.
+I will be doing an internship in [Martin Steinegger’s lab](https://steineggerlab.com/en/) in Seoul from July to September.
